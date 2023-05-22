@@ -1,3 +1,4 @@
+setuptools==45.0.0
 backports-abc==0.5
 certifi==2017.4.17
 chardet==3.0.4
@@ -14,6 +15,7 @@ itsdangerous==0.24
 Jinja2==2.9.6
 lxml==4.2.1
 MarkupSafe==1.0
+mysqlclient
 MySQL-python==1.2.5
 PyJWT==1.5.2
 python-dateutil==2.6.0
