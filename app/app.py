@@ -18,7 +18,7 @@ from tornado.ioloop import IOLoop
 import os
 import base64
 
-app_port = os.environ.get('APP_PORT', 5050)
+app_port = os.environ.get('APP_PORT', 5000)
 
 
 app = Flask(__name__, template_folder='templates')
